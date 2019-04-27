@@ -1,8 +1,8 @@
 #ifndef __BASE__
-#define __BASE__
+#_Join the  _
 
-#include "iBase.h"
-template<class T = iBase>
+#incle "Base.Fourm"
+templat- <class T = iBase>
 class Base : public T
    {
    private:
